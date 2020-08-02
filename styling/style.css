@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    background-color: palegoldenrod;
+    color: brown;
+    text-align: center;
+}
+
+#topbar{
+    background-color: brown;
+    text-align: center;
+    padding: 10px;
+}
+.menu-items{
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    margin: 16px;
+}
+
+#main-block{
+    text-align: center;
+}
+
+#label{
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#label h1{
+    font-size: 36px;
+    font-family: 'Poppins', sans-serif;
+}
+#label p{
+    font-size: 16px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+    word-spacing: 1.2;
+}
+
+#contact-img{
+    width: 200px;
+    height: 190px;
+}
+#label h2{
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 1.2;
+}
+
+#main-div{
+    height: 300px;
+
+}
+.services{
+    display: inline-block;
+    width: 350px;
+}
+
+.services-heading{
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.service-img{
+    width: 200px;
+}
+
+.service-desc{
+    font-size: 16px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+#footer{
+    background-color:brown;
+    text-align: center;
+    padding: 3px 0px;
+    margin-top: 140px;
+}
+#footer p{
+    color: white;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
